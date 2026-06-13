@@ -7,4 +7,3 @@ Install:
 ```bash
 git clone git@github.com:PVUL/nvim-configs.git nvim
 ```
-```
